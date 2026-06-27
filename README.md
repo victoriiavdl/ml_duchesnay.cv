@@ -1,6 +1,6 @@
 # Prosper Loan Default Prediction - Prédiction du risque de défaut
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](http://localhost:8504)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mlduchesnaycv-f2rtatwlkasrapghqsgg72.streamlit.app/)
 
 ## Présentation
 
